@@ -1,4 +1,3 @@
 # gitrebasetest
-
 bbb
 ccc
